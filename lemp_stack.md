@@ -147,6 +147,9 @@ You will also need pip, the Python package manager.
 $ sudo apt-get install python-pip
 OR, for Python 3
 $ sudo apt-get install python3-pip
+
+#If this doesn't work, try:
+$ sudo easy_install3 pip
 ```
 
 Some packages need additional setup. You should only follow these steps if your project requires these packages.
